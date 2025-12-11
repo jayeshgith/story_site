@@ -5,12 +5,12 @@
   "name": "instagram-stories-nextjs",
   "version": "1.0.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
+ "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+}
+,
   "dependencies": {
     "next": "13.5.7",
     "react": "18.2.0",
