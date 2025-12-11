@@ -40,7 +40,7 @@ const stories: IUserStories[] = [
     ],
   },
 
-  // ⭐ NEW USER #3
+
   {
     user: {
       id: "john",
@@ -60,7 +60,7 @@ const stories: IUserStories[] = [
     ],
   },
 
-  // ⭐ NEW USER #4
+  
   {
     user: {
       id: "krishna",
